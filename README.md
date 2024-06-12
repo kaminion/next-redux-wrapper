@@ -1,3 +1,7 @@
+사용버전 
+node 16.9.1
+yarn 3.2.0 (corepack enable 후 yarn policies set-version <version number>)
+
 # Redux Wrapper for Next.js <!-- omit in toc -->
 
 [![npm version](https://badge.fury.io/js/next-redux-wrapper.svg)](https://www.npmjs.com/package/next-redux-wrapper)
